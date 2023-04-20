@@ -1,7 +1,6 @@
 # The below program is a financial calculator that calculates expected investment proceeds
-# using simple, interest, compound interest or a bond repayment plan fo a house
-# This is also my first trial at defensive programming we were recently taught
-# so, I will be so grateful if comments on my error handling and ways I culd improve could be sent to me.
+# using simple, interest, compound interest or a bond repayment plan for a house
+# This is also my first trial at implementing defensive programming.
 
 
 import math

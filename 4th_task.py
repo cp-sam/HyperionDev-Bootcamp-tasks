@@ -1,4 +1,5 @@
 # This program asssesses participants in a triathlon and rewards them based on their total completion time
+# It demonstrates use and understanding of Python logical operators.
 award1 = "Provincial Colours award"
 award2 = "Provincial Half Colours award"
 award3 = "Provincial Scroll award"

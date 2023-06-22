@@ -2,6 +2,9 @@
 hero = "$$$Superman$$$"
 print(hero.strip("$"))
 
-user = input("Enter your name: ")
-result = f"Hello {user}"
-print(result)
+def greet_user():
+    user = input("Enter your name: ")
+    result = f"Hello {user}"
+    print(result)
+
+greet_user()
